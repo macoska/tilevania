@@ -10,7 +10,7 @@ The game is hosted at [ShareMyGame][Game].
 ## How to clone this repository
 
 ```bash
-git clone https://github.com/macoska/tile-vania.git
+git clone https://github.com/macoska/tilevania.git
 ```
 
-[Game]:https://sharemygame.com/@makokaz/tile-vania
+[Game]:https://sharemygame.com/@makokaz/tilevania
